@@ -45,5 +45,4 @@ export class PhotoService {
 
 class Photo{
   data: any;
-
 }
